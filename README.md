@@ -1,16 +1,24 @@
-## Hi there 👋
+# やなぎ｜Webコーダー志望
 
-<!--
-**yanagi-web/yanagi-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HTML / CSS / Sass / JavaScript を学習中です。
 
-Here are some ideas to get you started:
+ポートフォリオ制作や模写コーディングを通して、
+レスポンシブ対応を含めたWebサイト制作を行っています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 スキル
+- HTML
+- CSS / Sass
+- JavaScript
+- Git / GitHub
+
+---
+
+## 🌐 ポートフォリオ
+https://yanagi-web.github.io/yanagis-site/
+
+---
+
+## 📩 連絡先
+クラウドワークスのメッセージまたはポートフォリオ内フォームよりお願いします。
