@@ -2,8 +2,8 @@
 
 HTML / CSS / Sass / JavaScript を学習中です。
 
-ポートフォリオ制作や模写コーディングを通して、
-レスポンシブ対応を含めたWebサイト制作を行っています。
+模写コーディングやオリジナルサイト制作を通して、
+レスポンシブ対応を含めたWebサイト制作に取り組んでいます。
 
 ---
 
@@ -16,7 +16,7 @@ HTML / CSS / Sass / JavaScript を学習中です。
 ---
 
 ## 🌐 ポートフォリオ
-https://yanagi-web.github.io/yanagis-site/
+https://yanagigarden.com/
 
 ---
 
