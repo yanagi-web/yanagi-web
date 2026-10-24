@@ -1,6 +1,6 @@
 # やなぎ｜Webコーダー志望
 
-HTML / CSS / Sass / JavaScript を学習中です。
+HTML / CSS / Sass / JavaScript / WordPress を学習中です。
 
 模写コーディングやオリジナルサイト制作を通して、
 レスポンシブ対応を含めたWebサイト制作に取り組んでいます。
@@ -11,6 +11,7 @@ HTML / CSS / Sass / JavaScript を学習中です。
 - HTML
 - CSS / Sass
 - JavaScript
+- WordPress
 - Git / GitHub
 
 ---
